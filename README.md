@@ -1,1 +1,1 @@
-# Dental-Caries-Detection
+# Dental-Caries-Detetcion-system
